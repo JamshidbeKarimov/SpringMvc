@@ -10,11 +10,13 @@
 
 
 <div class="container">
-    <a href="${pageContext.request.contextPath}/auth/sign-up">
-        <button class="buttons">
-            Sign Up
-        </button>
-    </a>
+    <div>
+        <a href="${pageContext.request.contextPath}/auth/sign-up">
+            <button class="buttons">
+                Sign Up
+            </button>
+        </a>
+    </div>
     <div>
         <a href="${pageContext.request.contextPath}/auth/sign-in">
             <button class="buttons">
