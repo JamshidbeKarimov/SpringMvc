@@ -1,0 +1,15 @@
+.container {
+    background-color: gray;
+
+}
+.buttons {
+    font-size: 200px;
+    background-color: deepskyblue;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 1234px;
+    color: deepskyblue;
+}
+
